@@ -1,0 +1,17 @@
+﻿Email - admin@gmail.com
+Name - Admin
+Pwd - Admin@123
+
+Email - to reset password
+
+1. Create account in ProtonMail
+jeevan_desai@proton.me
+JK0918@proton
+
+2. Create account on mailjet.com
+jeevan_desai@proton.me
+JK0918@mailjet
+
+
+visit this page after creating account
+https://app.mailjet.com/auth/get_started
